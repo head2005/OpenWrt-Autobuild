@@ -1,5 +1,4 @@
 name: Xiaomi-MiWifi-Mini
-
 on:
   push:
     paths:
