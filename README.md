@@ -1,4 +1,4 @@
-#### 支持机型6666
+#### 支持机型
 
 [![x86-64](https://github.com/vgist/OpenWrt-Autobuild/workflows/x86-64/badge.svg)](https://github.com/vgist/OpenWrt-Autobuild/actions?query=workflow%3Ax86-64)
 [![NanoPi-R2S](https://github.com/vgist/OpenWrt-Autobuild/workflows/NanoPi-R2S/badge.svg)](https://github.com/vgist/OpenWrt-Autobuild/actions?query=workflow%3ANanoPi-R2S)
