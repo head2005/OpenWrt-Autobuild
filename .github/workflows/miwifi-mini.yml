@@ -1,8 +1,9 @@
 name: Xiaomi-MiWifi-Mini
 
 on:
-  repository_dispatch:
-    types: miwifi-mini-build
+  push:
+    paths:
+      - 'README.md'
 
 jobs:
   build:
